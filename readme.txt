@@ -1,0 +1,1 @@
+Javascript algorithm for While You Wait exercise.
